@@ -4,7 +4,7 @@ title: teaching
 permalink: /teaching/
 description: Sine 2019, I've worked as a tutor/lecturer across a variety of settings. Mostly, I have focused on teaching audio principles and technologies, as well as computer programming. Furthermore, I have taught a variety of ages and expertise --- from young children all the way up to masters level students. My experience is listed below...
 nav: true
-display_categories: [2021-2022, 2021, 2020, 2019]
+display_categories: [2021-2022, 2020, 2019]
 horizontal: false
 ---
 
