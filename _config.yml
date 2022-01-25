@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Corey Ford # the website title (if blank, full name will be used instead)
 first_name: Corey
-middle_name:
+# middle_name:
 last_name: Ford
 email: c.j.ford@qmul.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -16,7 +16,7 @@ footer_text: >
 keywords: interaction design, computational creativity, machine learning, music, audio  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🔥 # the emoji used as the favicon
+icon: 🤘 # the emoji used as the favicon
 url: https://thecoreyford.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer

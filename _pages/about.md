@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: thecoreyford.github.io
 permalink: /
 subtitle: PhD Researcher in AI, HCI and Music at Queen Mary University of London
 
@@ -17,6 +17,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-PhD researcher working within the intersection of Human Computer Interaction, Music and Artificial Intelligence. My work is centred around educational digital musical interfaces for music composition. Specifically, I am interested in exploring how to incorporate generative music into children's composition processes using AI towards better supporting their learning experiences.
+PhD researcher in Interaction Design specialising in Human-AI interaction and co-creation within creative practices such as music composition. Current interests are in reflective technologies, engagement, creativity, and educational musical interfaces. 
 
-**Interests:** Music Technology, Interaction Design, Music Composition, Generative Music Systems, Computational Creativity, Computer-Supported Education, Explainable AI, Machine Learning, NIME, C++
+My most recent work has been centred around an educational creativity support tool for music composition, named Codetta --- specifically, using Codetta to explore collaborations between children and generative AIs.
+
+**Areas:** Music Technology, Interaction Design, Computer-Supported Education, Music Composition, Generative Music, Digital and Computational Creativity, Explainable AI, Machine Learning, NIME, C++
