@@ -2,9 +2,9 @@
 layout: page
 title: teaching
 permalink: /teaching/
-description: Over the last 3+ years I've worked as a lecturer/tutor in a variety of settings. Mostly, I have focused on teaching audio principles and technologies, as well as computer programming. Furthermore, I have taught a variety of ages and expertise - from young children all the way up to masters level students. My experience is listed below...
+description: Sine 2019, I've worked as a tutor/lecturer across a variety of settings. Mostly, I have focused on teaching audio principles and technologies, as well as computer programming. Furthermore, I have taught a variety of ages and expertise --- from young children all the way up to masters level students. My experience is listed below...
 nav: true
-display_categories: [2021, 2020, 2019]
+display_categories: [2021-2022, 2021, 2020, 2019]
 horizontal: false
 ---
 
@@ -29,6 +29,9 @@ horizontal: false
 
 <br>
 <br>
+
+<hr>
+
 <h4 class="font-weight-bolder">Support Roles</h4>
 
 I have supported teaching at the following workshops, for conferences or during outreach events. <br>
