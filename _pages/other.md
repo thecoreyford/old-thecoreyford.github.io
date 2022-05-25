@@ -16,6 +16,7 @@ nav: true
 
 
 #### Others places I've talked at:
+* Invited Speaker at Pint of Science Festival on ART-ificial Intelligence and Music (2022)
 * AIM CDT External Advisory Board 2021
 * Numerous AIM CDT Forum Events 
 * Open University (On Codetta)
