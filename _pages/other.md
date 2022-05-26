@@ -32,3 +32,11 @@ nav: true
 * Organiser of group lab event between ACIDS (IRCAM) + AIM (QMUL)
 
 ---
+
+## Reviewing
+* ACM Creativity & Cognition Conference 2022
+* NIME Conference 2022
+* Digital Music Research Network One-Day Workshop 2021
+* NIME Conference 2021
+
+---
